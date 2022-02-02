@@ -20,6 +20,9 @@ Creature::Creature(const std::string& nom, unsigned int attaque, unsigned int de
 	 {
 	// code
 }
+  
+
+
 
 // TODO: destructeur
 Creature::~Creature() {
